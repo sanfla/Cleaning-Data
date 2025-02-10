@@ -28,5 +28,6 @@ Berikut adalah langkah-langkah umum dalam proses pembersihan data:
    ```bash
    git clone https://github.com/sanfla/Cleaning-Data-1.git
 2. Masuk ke direktori repositori
-   ```cd Cleaning-Data-1
+   ```bash
+   cd Cleaning-Data-1
 3. Gunakan Python atau alat lain seperti Pandas untuk membersihkan data sesuai kebutuhan.
